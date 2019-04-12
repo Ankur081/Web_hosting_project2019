@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 import cgi, os
 import cgitb; cgitb.enable()
 form = cgi.FieldStorage()
